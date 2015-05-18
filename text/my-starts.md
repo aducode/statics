@@ -1,5 +1,5 @@
 1. mangosfour
-	* [mangosfour/server mangos主体，处理网络IO，事件] (https://github.com/mangosfour/database)
-	* [mangosfour/database mangos数据库] (https://github.com/mangosfour/database)
-	* [mangosfour/scripts 游戏脚本] (https://github.com/mangosfour/scripts)
-	* [mangosfour/tools 工具] (https://github.com/mangosfour/tools)
+	* [mangosfour/server mangos涓讳綋锛屽鐞嗙綉缁淚O锛屼簨浠禲 (https://github.com/mangosfour/server)
+	* [mangosfour/database mangos鏁版嵁搴揮 (https://github.com/mangosfour/database)
+	* [mangosfour/scripts 娓告垙鑴氭湰] (https://github.com/mangosfour/scripts)
+	* [mangosfour/tools 宸ュ叿] (https://github.com/mangosfour/tools)
